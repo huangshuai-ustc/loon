@@ -22,6 +22,6 @@ DOMAIN,hsbc.com,DIRECT
 # 华美银行
 DOMAIN-KEYWORD,eastwestbank,DIRECT
 # 众安银行投资功能
-DOMAIN,bank-sbsmarket.zainvest.group,DIRECT
-DOMAIN,integrate-appgw.zajourney.com,DIRECT
-DOMAIN,bank-stock.zainvest.group,DIRECT
+DOMAIN,zajourney.com,DIRECT
+DOMAIN,zainvest.group,DIRECT
+DOMAIN,za.group,DIRECT
