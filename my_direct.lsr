@@ -14,13 +14,14 @@ DOMAIN-KEYWORD,weather,DIRECT
 
 # ===== 银行 / 金融 =====
 # 支付宝香港
-DOMAIN-SUFFIX,alipay.hk,DIRECT
+DOMAIN-SUFFIX,alipay.com,DIRECT
 # 中银香港
 DOMAIN-SUFFIX,bochk.com,DIRECT
+DOMAIN-SUFFIX,etnet.com.hk,DIRECT
 # 汇丰香港
-DOMAIN-SUFFIX,hsbc.com,DIRECT
+DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
 # 华美银行
-DOMAIN-SUFFIX,eastwestbank,DIRECT
+DOMAIN-KEYWORD,eastwestbank,DIRECT
 # 众安银行投资功能
 DOMAIN-SUFFIX,zainvest.group,DIRECT
 DOMAIN-SUFFIX,zajourney.com,DIRECT
